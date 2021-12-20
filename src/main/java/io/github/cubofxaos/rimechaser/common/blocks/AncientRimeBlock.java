@@ -5,11 +5,9 @@ import net.minecraft.world.level.block.SoundType;
 
 public class AncientRimeBlock extends Block {
 
-    public AncientRimeBlock(Properties p_49795_) {
-
-        super(p_49795_
+    public AncientRimeBlock(Properties properties){
+        super(properties
                     .sound(SoundType.AMETHYST));
 
         }
-
     }

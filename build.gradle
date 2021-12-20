@@ -149,7 +149,7 @@ jar {
         attributes([
                 "Specification-Title"     : "rimechaser",
                 "Specification-Vendor"    : "cubofxaos",
-                "Specification-Version"   : "0.1",
+                "Specification-Version"   : "0.0.1",
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
                 "Implementation-Vendor"   : "cubofxaos",

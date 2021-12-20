@@ -10,10 +10,8 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
 public class BlockInit {
-
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, Rimechaser.MODID);
 
-    private static final RegistryObject<Block> ANCIENT_RIME_BLOCK = BLOCKS.register
+    public static final RegistryObject<Block> ANCIENT_RIME_BLOCK = BLOCKS.register
             ("ancient_rime_block",() -> new AncientRimeBlock(BlockBehaviour.Properties.of(Material.ICE)));
-
 }

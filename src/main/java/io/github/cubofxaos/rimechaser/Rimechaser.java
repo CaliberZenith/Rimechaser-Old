@@ -89,6 +89,7 @@ public class Rimechaser
 
     }
 
+    @SubscribeEvent
     public void frostedOver(final FMLLoadCompleteEvent event) {
 
         LOGGER.info("The frost took over.");
