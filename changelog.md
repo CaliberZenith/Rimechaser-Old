@@ -39,3 +39,24 @@
 
 - "I should probably change the *`readme.txt`* to my own *`readme.md`*" ~ Misha
 - "Probably clean up the *`Init`* classes too." ~ Misha
+
+
+# Push 2: Eclectic Boogaloo
+
+## Blocks:
+
+- Added a few more properties to the `Ancient Rime` block.
+
+## Updates:
+
+- Added the `ancient_rime_block.json` inside `rimechaser:blockstates`
+
+## Other Changes:
+
+- Added the `rimechaser:blockstates` directory. "It was missing, that's why the block wasn't showing the textures." ~ Misha
+
+## Note(s):
+
+- "God, I'm losing my edge." ~ Misha
+- "Remember: Add Variants to the `Ancient Rime Block` and fix the texture for consistency." ~ Misha
+- "Next commit, I have to add the tool types for the blocks... First have to figure out how though." ~ Misha
